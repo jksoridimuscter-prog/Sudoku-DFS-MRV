@@ -1,0 +1,13 @@
+﻿Test Case,Difficulty,Board Size,Algorithm,Runs,Valid Solution,Avg Time (ms),Expanded Nodes,Backtracks
+S4-E,Easy,4x4,DFS Backtracking,20,True,0.01239,5,0
+S4-E,Easy,4x4,DFS + MRV,20,True,0.041515,5,0
+S4-M,Medium,4x4,DFS Backtracking,20,True,0.027625,12,1
+S4-M,Medium,4x4,DFS + MRV,20,True,0.173575,11,0
+S4-H,Hard,4x4,DFS Backtracking,20,True,0.03001,12,0
+S4-H,Hard,4x4,DFS + MRV,20,True,0.242145,12,0
+S6-E,Easy,6x6,DFS Backtracking,20,True,0.04533,14,0
+S6-E,Easy,6x6,DFS + MRV,20,True,0.41578,14,0
+S6-M,Medium,6x6,DFS Backtracking,20,True,0.08516,25,1
+S6-M,Medium,6x6,DFS + MRV,20,True,1.279595,24,0
+S6-H,Hard,6x6,DFS Backtracking,20,True,0.10456,32,6
+S6-H,Hard,6x6,DFS + MRV,20,True,1.486855,26,0
